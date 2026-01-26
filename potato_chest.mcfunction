@@ -1,0 +1,1 @@
+setblock 0 63 0 chest{Items:[{Slot:0b,id:"minecraft:potato",count:1,components:{"minecraft:custom_data":{"key":"content"}}}]} replace
